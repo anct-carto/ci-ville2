@@ -68,7 +68,7 @@ export default {
     #select-territoire .vs__dropdown-toggle,
     #select-territoire .vs__dropdown-menu {
         background: white;
-        border:1px solid #DADAF0;
+        border:px solid #e0e0e0;
         border-radius: 8px;
         padding:6px 2px;
         z-index:1001;

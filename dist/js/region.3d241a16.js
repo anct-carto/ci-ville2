@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkci_ville"]=self["webpackChunkci_ville"]||[]).push([[207],{213:function(e,l,n){n.r(l),n.d(l,{default:function(){return s}});var c=n(641);function i(e,l,n,i,r,u){const t=(0,c.g2)("VueEchelle");return(0,c.uX)(),(0,c.Wv)(t,{libEchelle:"région",idEchelle:"reg",idGeo:"insee_reg",libGeo:"lib_reg"})}var r=n(5370),u={components:{VueEchelle:r.A}},t=n(6262);const o=(0,t.A)(u,[["render",i]]);var s=o}}]);
+//# sourceMappingURL=region.3d241a16.js.map

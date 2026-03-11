@@ -3,11 +3,12 @@
 
 ![alt text](preview.JPG)
 
-Présentation interactive par thème et par territoire des crédits de la politique de la ville, alloués par l'État sous forme de subventions pour des porteurs d'actions ou de contrats aidés Fonjep et Adulte-relais depuis 2020.
+Présentation interactive par thème et par territoire des crédits de la politique de la ville, alloués par l'État sous forme de subventions pour des porteurs d'actions ou de contrats aidés Fonjep et Adulte-relais depuis 2024.
+Une autre application existe pour la présentation des données de 2020 à 2023. 
 
 [Page officielle](https://acteurs.lagrandeequipe.fr/article/74845)
 
-[Lien direct](https://carto.pages.sit.incubateur.tech/vie-associative/)
+[Lien direct](https://cartes.anct.gouv.fr/vie-associative-2/#/panorama/contrat-de-ville)
 
 ## Données
 
@@ -21,10 +22,7 @@ Cet outil, conçu et développé par le service cartographie de l'ANCT, a été 
 
 Sur le site ANCT : [https://agence-cohesion-territoires.gouv.fr/subventions-de-la-politique-de-la-ville-101](https://agence-cohesion-territoires.gouv.fr/subventions-de-la-politique-de-la-ville-101)
 
-## Cloner le projet
-```
-git clone https://www.github.com/anct-carto/ci-ville.git
-```
+
 
 ## Installation des dépendances
 ```

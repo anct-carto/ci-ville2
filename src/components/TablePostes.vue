@@ -31,7 +31,7 @@ export default {
         return {
             renderKey:0,
             headers: [
-                { text: "Bénéficiaire", value: "raison_sociale", sortable: true},
+                { text: "Porteur", value: "raison_sociale", sortable: true},
                 { text: "Contrat", value: "type_poste", sortable: true},
                 { text: "Nombre de postes", value: "nb_postes", sortable: true },
             ]

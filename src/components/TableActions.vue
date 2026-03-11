@@ -31,7 +31,7 @@ export default {
                 { text: "Libellé de l'action", value: "lib_action", sortable: true },
                 { text: "Porteur", value: "raison_sociale", sortable: true},
                 { text: "Objectif", value: "objectif", sortable: true },
-                { text: "Montant (€)", value: "montant", sortable: true },
+                { text: "Montant (€)", value: "montant_format", sortable: true },
             ]
         }
     },
