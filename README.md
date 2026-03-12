@@ -1,7 +1,7 @@
 # Ci.Ville
 (Cartes interactives de la politique de la ville)
 
-![alt text](preview.JPG)
+![alt text](preview.png)
 
 Présentation interactive par thème et par territoire des crédits de la politique de la ville, alloués par l'État sous forme de subventions pour des porteurs d'actions ou de contrats aidés Fonjep et Adulte-relais depuis 2024.
 Une autre application existe pour la présentation des données de 2020 à 2023. 
